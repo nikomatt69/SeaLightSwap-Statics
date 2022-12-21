@@ -1,0 +1,2 @@
+# SeaLightSwap-Statics
+Build Only
